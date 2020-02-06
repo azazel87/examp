@@ -1,2 +1,3 @@
 <?php
-echo "HI"
+session_start();
+echo "Hi2";
